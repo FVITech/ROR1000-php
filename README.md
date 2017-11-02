@@ -16,4 +16,33 @@
 5. Intro to OOP.
 
 ### Day 3: OOP
-1.
+1. Classes and Objects
+2. Namespace and Composer
+3. Web application development with php
+4. Controllers and Log System
+5. Twig templating
+
+### Day 4: Mini project
+1. Project overview
+2. Project construction
+3. Short quiz
+
+### Day 5: MySQL and PHP
+1. Connecting to MySQL - Overview
+2. Controllers and Log System
+3. CRUD operations with PDO
+4. Overview of Doctrine ORM
+
+### Day 6: CRUD project
+1. Project overview
+2. Project construction
+
+### Day 7: Crud project continued
+1. Continue development of CRUD project
+
+### Day 8: Security
+1. Basic security concepts
+2. Creating a registrion page
+3. Creating a controller for our registration page and validations
+4. Quiz
+
